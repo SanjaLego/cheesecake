@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# virtualenv
+.venv/
+venv/
+env/
+
+# PySpark / Hadoop output
+data/
+data/**
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# system
+.DS_Store
